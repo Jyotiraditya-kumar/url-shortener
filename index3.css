@@ -893,6 +893,9 @@ header {
     font-size: 16px;
     color: var(--grayishViolet);
   }
+  .header-links > ul > li > a:hover {
+    color: var(--darkViolet);
+  }
   .user-links > li:last-child a {
     color: white;
     /* text-decoration: none; */
